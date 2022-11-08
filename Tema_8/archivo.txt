@@ -1,0 +1,2 @@
+Archivo creado desde codigo Python.
+Escribimos más lineas en el archivo.
